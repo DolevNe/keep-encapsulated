@@ -1,0 +1,6 @@
+#!C:\Users\User\OneDrive\Desktop\keep\venv\Scripts\python.exe
+import sys
+from keep.cli.cli import cli
+
+if __name__ == '__main__':
+    sys.exit(cli())

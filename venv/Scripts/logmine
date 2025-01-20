@@ -1,0 +1,6 @@
+#!C:\Users\User\OneDrive\Desktop\keep\venv\Scripts\python.exe
+
+from logmine_pkg.run import run
+
+if __name__ == '__main__':
+    run()
